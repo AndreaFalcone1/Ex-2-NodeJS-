@@ -23,4 +23,4 @@
     }
   
     button.onclick = handleSubmit;
-  })();
+})(); 
